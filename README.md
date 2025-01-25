@@ -2,7 +2,7 @@
 
 このリポジトリは大学の講義用に用意したものです。
 
-[聖書データはこちらから](https://www.gutenberg.org/ebooks/8300)
+[聖書データはこちらから(The Bible, Douay-Rheims, Complete – Project Gutenberg)](https://www.gutenberg.org/ebooks/8300)
 
 ## 概要
 
